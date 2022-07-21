@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TiltonD
 - 👀 I’m interested in video games, playing piano and movies.
-- 🌱 I’m currently learning Spring API and Java web developement
+- 🌱 I’m currently learning Html/CSS and JavaScript developement
 - 💞️ I’m looking to collaborate on beginner projects for now until I feel more comfortable.
 - 📫 How to reach me: email at daniel.l.tilton@gmail.com or linkedin profile: https://www.linkedin.com/in/tiltond/
 
